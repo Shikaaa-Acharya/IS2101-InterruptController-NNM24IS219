@@ -45,3 +45,5 @@ Highest-priority unmasked interrupt is always handled first.
 
 ISR execution logs are displayed after simulation.
 ## Output Screenshot
+<img width="465" height="654" alt="Output" src="https://github.com/user-attachments/assets/75a40dff-8f83-4f8c-96e6-35827d35518a" />
+
